@@ -10,5 +10,5 @@
 }
 input[type=checkbox]:checked + label.strikethrough{
     text-decoration-line: line-through;
-    text-decoration-color: red;
+    text-decoration-color: rgb(245, 7, 7);
 }
