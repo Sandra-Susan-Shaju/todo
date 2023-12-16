@@ -1,0 +1,14 @@
+.container{
+ border-width: 3;
+ border-color: black;   
+ border-style:solid;
+ width: 50rem;
+ padding-left: 50px;
+ overflow: scroll;
+ max-height: 520px;
+ background-color: #bdf6fe;
+}
+input[type=checkbox]:checked + label.strikethrough{
+    text-decoration-line: line-through;
+    text-decoration-color: red;
+}
